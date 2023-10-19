@@ -1,0 +1,48 @@
+<html>
+<head>
+<title>Personal Website</title>
+</head>
+
+<body background="Background.jpg">
+<font color=blue>
+<h1 align =center>Personal Website</h1>
+</font>
+<hr>
+<center>
+<table border=5 bgcolor=blue width=50%>
+<th>PHOTOS</th>
+<th>PERSONAL INFORMATION</th>
+<th>SCHOOL INFORMATION</th>
+<th>STRAND: ICT-PROGRAMMING</th>
+</table>
+</center>
+<hr>
+<center>
+<table border=5 bg color=blue cellpadding=10 width=75%>
+<td>
+<marquee bahavior="scroll" direction="left">
+<img src="Picture.1.jpg" height=400>
+<img src="Picture.2.jpg" height=400>
+<img src="Picture.3.jpg" height=400>
+<img src="Picture.4.jpg" height=400>
+<img src="Picture.5.jpg" height=400>
+<img src="Picture.6.jpg" height=400>
+<img src="Picture.7.jpg" height=400>
+<img src="Picture.8.jpg" height=400>
+<img src="Picture.9.jpg" height=400>
+<img src="Picture.10.jpg" height=400>
+<img src="Picture.11.jpg" height=400>
+<img src="Picture.12.jpg" height=400>
+<img src="Picture.13.jpg" height=400>
+<img src="Picture.14.jpg" height=400>
+</marquee>
+</td>
+</table>
+</center>
+
+
+
+
+
+</body>
+</html>
